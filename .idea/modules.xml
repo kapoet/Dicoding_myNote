@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dicoding_myNote.iml" filepath="$PROJECT_DIR$/Dicoding_myNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dicodingnoteprovider/dicodingnoteprovider.iml" filepath="$PROJECT_DIR$/dicodingnoteprovider/dicodingnoteprovider.iml" />
     </modules>
   </component>
 </project>

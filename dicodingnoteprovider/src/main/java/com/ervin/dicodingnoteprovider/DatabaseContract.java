@@ -1,4 +1,4 @@
-package com.ervin.dicoding_mynote;
+package com.ervin.dicodingnoteprovider;
 
 import android.database.Cursor;
 import android.net.Uri;
